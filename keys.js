@@ -8,7 +8,7 @@ exports.spotify = {
 
 //only the above was explicit in the HW directions
 
-const OMDB_KEY = '1b5ee803'; //or just 'trilogy'
+const OMDB_KEY = 'XXXXXXXXX'; //or just 'trilogy'
 const BIT_KEY = 'codingbootcamp';
 const SPOTIFY_KEY = XXXXXXXXXXXXXXXXXXXX;
 

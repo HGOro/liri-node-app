@@ -46,11 +46,12 @@ When running liri.js in the terminal, LIRI responds to Four (4) commands:
 
     The user must specify the query input of "movie-this" followed by a movie title. LIRI will get the data from the OMDB API and respond with the movie title, release date, IMDB rating, Rotten Tomatoes Rating, Country of production, language, plot, and actors.
 
-<img screenshot of 'node liri.js movie-this userQuery'>
+![screenshot of 'node liri.js movie-this userQuery'](/images/movie-thisSS.png)
 
     If no movie title is provided, LIRI will default to  "Mr. Nobody."
 
-<img screenshot of 'node liri.js movie-this'>
+
+![screenshot of 'node liri.js movie-this'](/images/movie-thisDefaultSS.png)
 
 ## do-what-it-says
 
